@@ -12,7 +12,10 @@
 ---
 
 ### 🧝‍♂️ About me: ###
-- I'm a beginner software developer. Currently studying Java and Kotlin programming languages and technologies connected with them(Spring Framework, Hibernate, Android SDK).
+I am a beginner software developer from Russia. 
+
+- Currently studying Java and Kotlin programming languages and technologies connected with them(Spring Framework, Hibernate and Android SDK).
+	
 - In my free time, I work on my pet project and read about computer networks.
 
 ---
