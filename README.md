@@ -6,7 +6,9 @@
 	<img src="https://img.shields.io/badge/@happy_coder-blue?logo=telegram&logoColor=white&style=for-the-badge"
 		 alt="@happy_coder" title="@happy_coder"/>
 </div>
+
 ---
+
 ### 🛠️ Languages and Tools I use: ###
 
 <div id="tools">
