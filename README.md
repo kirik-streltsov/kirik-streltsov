@@ -7,6 +7,10 @@
 		 alt="@happy_coder" title="@happy_coder"/>
 </div>
 
+### 🧝‍♂️ About me: ###
+- I'm a beginner software developer. Currently studying Java and Kotlin programming languages and technologies connected with them(Spring Framework, Hibernate, Android SDK).
+- In my free time, I work on my pet project and read about computer networks.
+
 ---
 
 ### 🛠️ Languages and Tools I use: ###
