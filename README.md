@@ -5,11 +5,10 @@
 <div id="badges" align="center">
 	<img src="https://img.shields.io/badge/@happy_coder-blue?logo=telegram&logoColor=white&style=for-the-badge"
 		 alt="@happy_coder" title="@happy_coder"/>
-</div
-	
----
+</div>
 
 ### 🛠️ Languages and Tools I use: ###
+
 <div id="tools">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotin" width="40" height="40"/>&nbsp;
