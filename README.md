@@ -3,8 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-	<img src="https://img.shields.io/badge/@happy_coder-blue?logo=telegram&logoColor=white&style=for-the-badge"
+	<img src="https://img.shields.io/badge/@happy__coder-blue?logo=telegram&logoColor=white&style=flat-square"
 		 alt="@happy_coder" title="@happy_coder"/>
+	<img src="https://img.shields.io/badge/happy__coder,%20Discord%20Tag:%202551-blueviolet?logo=discord&logoColor=white&style=flat-square" 
+	     alt="happy_coder#2551" title="happy_coder#2551"
 </div>
 
 ---
