@@ -10,19 +10,20 @@
 </div>
 
 ---
+<div id="aboutme" align="left">
+<h3> 🧝‍♂️ About me: </h3>
+<p>I am a beginner software developer from Russia.</p> 
 
-### 🧝‍♂️ About me: ###
-I am a beginner software developer from Russia. 
-
-- Currently studying Java and Kotlin programming languages and technologies connected with them(Spring Framework, Hibernate and Android SDK).
-	
-- In my free time, I work on my pet project and read about computer networks.
+<ul>
+	<li>Currently studying Java and Kotlin programming languages and technologies connected with them(Spring Framework, Hibernate and Android SDK).</li>
+	<li>In my free time, I work on my pet projects and read about computer networks.</li>
+</ul>
 
 ---
 
-### 🛠️ Languages and Tools I use: ###
+<h3 align="left"> 🛠️ Languages and Tools I use: </h3>
 
-<div id="tools">
+<div id="tools" align="left">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotin" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -32,3 +33,4 @@ I am a beginner software developer from Russia.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+</div>
