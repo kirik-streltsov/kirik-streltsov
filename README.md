@@ -8,6 +8,7 @@
 </div
 	
 ---
+
 ### 🛠️ Languages and Tools I use:
 <div id="tools">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
