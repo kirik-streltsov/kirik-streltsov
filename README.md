@@ -3,9 +3,9 @@
 </div>
 
 <div id="badges" align="center">
-	<img src="https://img.shields.io/badge/@kirik_streltsov-blue?logo=telegram&logoColor=white&style=flat-square"
+	<img src="https://img.shields.io/badge/@drilltseptsovofficial-blue?logo=telegram&logoColor=white&style=flat-square"
 		 alt="@drilltseptsovofficial" title="@drilltseptsovofficial"/>
-	<img src="https://img.shields.io/badge/kirik_streltsov,%20Discord%20Tag:%202551-blueviolet?logo=discord&logoColor=white&style=flat-square" 
+	<img src="https://img.shields.io/badge/drilltseptsovofficial,%20Discord%20Tag:%202551-blueviolet?logo=discord&logoColor=white&style=flat-square" 
 	     alt="drilltseptsovofficial" title="drilltseptsovofficial"
 </div>
 
