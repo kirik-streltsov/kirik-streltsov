@@ -15,7 +15,7 @@
 <p>I am a beginner software developer from Russia.</p> 
 
 <ul>
-	<li>Currently studying Java and Go programming languages and technologies connected with them (Spring Framework, Hibernate).</li>
+	<li>Currently studying Java and Kotlin programming languages and technologies connected with them (Spring Framework, Hibernate).</li>
 	<li>In my free time, I work on my pet projects</li>
 </ul>
 
